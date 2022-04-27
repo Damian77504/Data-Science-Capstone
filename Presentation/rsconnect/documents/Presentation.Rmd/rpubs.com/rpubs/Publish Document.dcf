@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/895151/5626f18100c84bedbf85197bf1771a9e
+bundleId: https://api.rpubs.com/api/v1/document/895151/5626f18100c84bedbf85197bf1771a9e
+url: http://rpubs.com/Damian77504/895151
+when: 1651053131.18068
+lastSyncTime: 1651053131.18068
